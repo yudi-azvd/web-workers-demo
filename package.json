@@ -1,0 +1,12 @@
+{
+  "name": "web-workers-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "image-q": "^2.1.2"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
